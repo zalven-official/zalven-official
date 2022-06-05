@@ -1,6 +1,12 @@
 [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
 
-<center>
+<p align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalven-official&count_private=true&theme=github_dark&hide_border=true)
+
+</p>
+
+<p align="center">
 
 **Techs**
 <br/>
@@ -96,7 +102,7 @@
 
 <br/>
 
-</center>
+</p>
 
 [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png)](https://twitter.com/dayaoski)
 
