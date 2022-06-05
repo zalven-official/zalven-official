@@ -1,6 +1,6 @@
 [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
 
-<p align="center">
+<center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalven-official&count_private=true&theme=github_dark&hide_border=true)
 
@@ -8,8 +8,11 @@
 
 <p align="center">
 
-**Techs**
 <br/>
+
+**Techs**
+
+<p align="center">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982856823424049222/template1.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982857481220919306/template2.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982858608398204938/template3.png?width=629&height=629">
@@ -22,10 +25,13 @@
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982862931228262410/template10.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982863327434801153/template11.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982863721699352607/template12.png?width=629&height=629">
+</p>
 <br/>
 
 **Web Development Tools**
 <br/>
+
+<p align="center">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982864398513229885/template13.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982864767796535396/template14.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982865205782528040/template15.png?width=629&height=629">
@@ -44,10 +50,13 @@
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982871130807353394/template28.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982871526107922452/template29.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982871858917556305/template30.png?width=629&height=629">
+</p>
 <br/>
 
 **Data Science Tools**
 <br/>
+
+<p align="center">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982873393030385715/template34.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982873649105235968/template35.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982872484544143400/template31.png?width=629&height=629">
@@ -60,25 +69,34 @@
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982875538882453504/template41.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982875862716256356/template42.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982876270578786324/template43.png?width=629&height=629">
+</p>
 <br/>
 
 **Databases**
 <br/>
+
+<p align="center">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982879233095397426/template44.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982879616047906846/template45.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982879884030410812/template46.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982880135692812318/template47.png?width=629&height=629">
+</p>
 <br/>
 
 **Mobile Development**
 <br/>
+
+<p align="center">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982880590468632586/template48.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982881261368537118/template49.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982883102198206514/template51.png?width=629&height=629">
+</p>
 <br/>
 
 **Others**
 <br/>
+
+<p align="center">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982883677069520916/template52.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982883934037737522/template53.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982884312099741716/template54.png?width=629&height=629">
@@ -86,10 +104,13 @@
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982884852573548614/template56.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982885136972537876/template57.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982885416778735656/template58.png?width=629&height=629">
+</p>
 <br/>
 
 **Media Express**
 <br/>
+
+<p align="center">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982885910599323659/template60.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982886359532470282/template61.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982886763779465236/template62.png?width=629&height=629">
@@ -99,6 +120,7 @@
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982887326017548298/template64.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982887627663495168/template65.png?width=629&height=629">
 <img height="50" src="https://media.discordapp.net/attachments/955281529481883729/982888785517891604/template68.png?width=629&height=629">
+</p>
 
 <br/>
 
@@ -107,5 +129,7 @@
 [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png)](https://twitter.com/dayaoski)
 
 <p align="center">
- <img  alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif" width = "100px" />
+ <img alt="GIF" height="50" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif">
+ <img  height="100"  alt="GIF" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif" />
+ <img alt="GIF" height="50" src="https://raw.githubusercontent.com/zalven/zalven/main/tumblr_ncx3k4PHUh1tk2r8jo8_500.gif">
 </p>
