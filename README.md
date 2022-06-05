@@ -1,8 +1,32 @@
 [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/photo-cover.png)](https://twitter.com/dayaoski)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+i'm+Zalven+Dayao;I+love+problem+solving+and+creative+thinking!;I+am+a+team+player;I+want+to+help+people!&center=true&width=560&height=50">
+</p>
+
+I'm a Computer Science Student that's working on multiple machine and deep learning projects. I am also a self taught full-stack web developer and mobile developer.
+
+- 🔭 I’m currently Studying Computer Science.
+- 🌱 I’m currently learning Machine learning and Deep learning
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I love anime, cats, and, sweet foods
+
+## 🙋‍♂️ Connect with me
+
+<!-- Badges template - https://github.com/badges/shields -->
+<p align="center">
+  <a href="https://www.facebook.com/paralipomenao/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://discord.gg/kJ8buQW9"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
+  <a href="https://twitter.com/dayaoski"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-twitter-1b95df?style=for-the-badge&logoColor=white&logo=twitter"/></a>
+  <a href="https://www.linkedin.com/in/zalven-dayao-b63284205/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-LinkDin-1b95df?style=for-the-badge&logoColor=white&logo=LinkDin"/></a>
+  <a href="https://www.instagram.com/zalven_dayao/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
+
 <center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalven-official&count_private=true&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.jinliming2.vercel.app/api/top-langs/?username=zalven&layout=compact&title_color=61e4ed&text_color=04b7db&hide_border=1&langs_count=10&exclude_repo=RTL8822CE-driver,BiliBili-UWP&theme=github_dark" />
 
 </p>
 
@@ -125,6 +149,10 @@
 <br/>
 
 </p>
+<div align="center">
+  
+  ![Astronaut](https://raw.githubusercontent.com/jinliming2/jinliming2/master/astronaut.svg)
+</div>
 
 [![waylon walker header](https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png)](https://twitter.com/dayaoski)
 
