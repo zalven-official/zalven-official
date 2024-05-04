@@ -6,7 +6,7 @@
 
 I'm a Computer Science Student that's working on multiple machine and deep learning projects. I am also a self taught full-stack web developer and mobile developer.
 
-- 🔭 I’m currently Studying Computer Science.
+- 🔭 I’m currently Working as Machine Learning specialists.
 - 🌱 I’m currently learning Machine learning and Deep learning
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
