@@ -28,10 +28,10 @@
 | <img src="https://streak-stats.demolab.com/?user=zalven-official&theme=tokyonight&hide_border=true" height="150em"/> | <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalven-official&theme=tokyonight"/> |
 |---|---|
 
-| <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalven-official&theme=tokyonight" width="100%"/> |
+| <img height="187em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalven-official&theme=tokyonight" width="100%"/> |
 |---|
 
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=zalven-official&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity" width="100%" height="200em"/> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=zalven-official&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity" width="100%" height="230em"/> |
 |---|
 
 | <img src="gopher-landscape-animation.gif" alt="Go Gopher Animation" width="100%" height="auto"/> |
