@@ -22,30 +22,24 @@
 
 <div align="center">
 
-| Stats | Languages |
-|-------|-----------|
 | <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zalven-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> | <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zalven-official&theme=tokyonight" width="100%"/> |
+|---|---|
 
-| Streak | Profile Stats |
-|--------|---------------|
 | <img src="https://streak-stats.demolab.com/?user=zalven-official&theme=tokyonight&hide_border=true" height="150em"/> | <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalven-official&theme=tokyonight"/> |
+|---|---|
 
-</div>
+| <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalven-official&theme=tokyonight" width="100%"/> |
+|---|
 
-<p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalven-official&theme=tokyonight" width="100%"/>
-</p>
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=zalven-official&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity" width="100%" height="200em"/> |
+|---|
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zalven-official&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity" width="100%" height="270em"/>
-</p>
+| <img src="gopher-landscape-animation.gif" alt="Go Gopher Animation" width="100%" height="auto"/> |
+|---|
 
-<div align="center">
-  <img src="gopher-landscape-animation.gif" alt="Go Gopher Animation" width="40%" height="auto"/>
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png" width="100%" />
 </p>
 
-                                                                                                                                                                                                                                                                                                                                                                              
