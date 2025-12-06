@@ -32,7 +32,9 @@
 
 </div>
 
-
+<div align="center">
+  <img src="gopher-landscape-animation.gif" alt="Go Gopher Animation" width="60%" height="auto"/>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png" width="100%" />
