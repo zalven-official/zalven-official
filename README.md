@@ -34,10 +34,11 @@
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=zalven-official&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity" width="100%" height="230em"/> |
 |---|
 
-| <img src="gopher-landscape-animation.gif" alt="Go Gopher Animation" width="100%" height="auto"/> |
-|---|
+
+<img src="gopher-landscape-animation.gif" alt="Go Gopher Animation" width="20%" height="auto"/> 
 
 </div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zalven/zalven/main/footer-cover.png" width="100%" />
