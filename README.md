@@ -25,8 +25,9 @@
 | <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zalven-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> | <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zalven-official&theme=tokyonight" width="100%"/> |
 |---|---|
 
-| <img src="https://streak-stats.demolab.com/?user=zalven-official&theme=tokyonight&hide_border=true" height="150em"/> | <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalven-official&theme=tokyonight"/> |
+|<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zalven-official&theme=tokyonight" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalven-official&theme=tokyonight" height="150" /> |
 |---|---|
+
 
 | <img height="187em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalven-official&theme=tokyonight" width="100%"/> |
 |---|
