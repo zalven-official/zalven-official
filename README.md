@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  👋 Hi, I'm Zalven Dayao! A Backend Engineer and I love GO.
+  👋 Hi, I'm <strong>Zalven Dayao</strong> — Backend Engineer specializing in distributed systems & scalable architecture
 </p>
 
 <!-- Tech Stack -->
