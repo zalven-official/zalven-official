@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  👋 Hi, I'm <strong>Zalven Dayao</strong> — Backend Engineer specializing in distributed systems & scalable architecture
+  👋 Hi, I'm <strong>Zalven Dayao</strong> — Backend Engineer specializing in distributed systems, scalable architecture & high-performance APIs
 </p>
 
 <!-- Tech Stack -->
@@ -27,7 +27,7 @@
 | <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zalven-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> | <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zalven-official&theme=tokyonight" width="100%"/> |
 |---|---|
 
-|<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zalven-official&theme=tokyonight"  height="150" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalven-official&theme=tokyonight" height="150" /> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zalven-official&theme=tokyonight" width="100%"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalven-official&theme=tokyonight" width="100%"/> |
 |---|---|
 
 
